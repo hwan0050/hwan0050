@@ -1,95 +1,56 @@
-<h1 align="center">Hi, I'm Hwan 👋</h1>
+# Hwan Kim
 
-<h3 align="center">Full Stack Developer | Clean Code Enthusiast</h3>
+Full Stack Developer · AI Enthusiast
 
-<br/>
-
-<p align="center">
-  깔끔한 UI/UX를 좋아하는 개발자입니다<br/>
-  프론트엔드와 백엔드를 아우르는 풀스택 개발에 관심이 많습니다
-</p>
+기술과 비즈니스의 교차점에서 가치를 창출하는 개발자  
+AI 기술을 활용한 실용적 솔루션 개발에 집중합니다
 
 <br/>
 
 ---
 
-<br/>
+## Work
 
-## 💼 Currently Working On
+**Stock Prediction Platform**  
+실시간 주가 분석과 AI 기반 가격 예측  
+→ [github.com/hwan0050/stock-prediction-app](https://github.com/hwan0050/stock-prediction-app)
 
-**📈 Stock Prediction App** - AI 기반 주가 예측 웹 애플리케이션
-
-<br/>
-
-## 🎯 Focus
-```
-Backend Development    ████████████░░  80%
-Frontend Development   ███████░░░░░░░  60%
-Machine Learning       ████░░░░░░░░░░  30%
-```
+React · Spring Boot · Python · Machine Learning
 
 <br/>
 
-## 🛠 Tech Stack
+**Training Repository**  
+Git 워크플로우와 개발 방법론 실습  
+→ [github.com/hwan0050/training](https://github.com/hwan0050/training)
+
+<br/>
+
+---
+
+## Stack
 
 **Backend**  
-`Java` `Spring Boot` `Node.js`
+Java, Spring Boot, Node.js
 
 **Frontend**  
-`JavaScript` `HTML` `CSS`
+JavaScript, HTML, CSS  
+*Learning: TypeScript, React, Next.js*
 
-**Learning**  
-`TypeScript` `React` `Next.js`
+**Data & AI**  
+Python, TensorFlow, scikit-learn
 
 **Tools**  
-`Git` `GitHub` `VS Code`
+Git, GitHub, VS Code, PostgreSQL
 
 <br/>
 
 ---
 
-<br/>
+## Contact
 
-## 📌 Featured Projects
-
-### [📈 Stock Prediction App](https://github.com/hwan0050/stock-prediction-app)
-AI 기반 주가 예측 웹 애플리케이션  
-`React` `Spring Boot` `Python` `Machine Learning`
-
-### [📚 Training](https://github.com/hwan0050/training)
-개발 학습 및 Git 워크플로우 실습  
-`Git` `Markdown`
+**Email** — akma0050@naver.com  
+**GitHub** — [github.com/hwan0050](https://github.com/hwan0050)
 
 <br/>
 
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hwan0050&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan0050&layout=compact&theme=minimal&hide_border=true&bg_color=ffffff"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📫 Contact
-
-**Email** akma0050@naver.com  
-**GitHub** [@hwan0050](https://github.com/hwan0050)
-
-<br/>
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=hwan0050&color=lightgrey&style=flat)
-
-</div>
+<sub>Building with purpose · Learning with passion</sub>
