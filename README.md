@@ -37,7 +37,7 @@ AI 기술을 활용한 실용적 솔루션 개발에 집중합니다
 **Tech Stack**  
 `React` `Spring Boot` `Python` `TensorFlow` `PostgreSQL` `Chart.js`
 
-**[→ 프로젝트 보러가기](https://github.com/hwan0050/stock-prediction-app)**
+**[→ 프로젝트 보러가기](https://github.com/hwan0050/stock-predictor)**
 
 <br/>
 
