@@ -1,56 +1,61 @@
-# Hwan Kim
+<div align="center">
 
-Full Stack Developer · AI Enthusiast
+# 👋 안녕하세요, Hwan입니다
+
+**Full Stack Developer** · **AI Enthusiast**
 
 기술과 비즈니스의 교차점에서 가치를 창출하는 개발자  
 AI 기술을 활용한 실용적 솔루션 개발에 집중합니다
 
-<br/>
-
----
-
-## Work
-
-**Stock Prediction Platform**  
-실시간 주가 분석과 AI 기반 가격 예측  
-→ [github.com/hwan0050/stock-prediction-app](https://github.com/hwan0050/stock-prediction-app)
-
-React · Spring Boot · Python · Machine Learning
+</div>
 
 <br/>
 
-**Training Repository**  
-Git 워크플로우와 개발 방법론 실습  
-→ [github.com/hwan0050/training](https://github.com/hwan0050/training)
+## 🚀 What I'm Building
+
+### 📈 Stock Prediction Platform
+실시간 주가 분석과 AI 기반 가격 예측 웹 애플리케이션
+
+**Tech Stack:** React · Spring Boot · Python · Machine Learning
+
+**[→ 프로젝트 보러가기](https://github.com/hwan0050/stock-prediction-app)**
 
 <br/>
 
----
+## 💻 Tech Stack
 
-## Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Backend**  
-Java, Spring Boot, Node.js
+### Backend
+- ☕ Java & Spring Boot
+- 🟢 Node.js
+- 🗃️ PostgreSQL
 
-**Frontend**  
-JavaScript, HTML, CSS  
-*Learning: TypeScript, React, Next.js*
+### Frontend  
+- 🌐 JavaScript, HTML, CSS
+- ⚛️ React *(learning)*
+- 📘 TypeScript *(learning)*
 
-**Data & AI**  
-Python, TensorFlow, scikit-learn
+</td>
+<td valign="top" width="50%">
 
-**Tools**  
-Git, GitHub, VS Code, PostgreSQL
+### AI & Data
+- 🐍 Python
+- 🤖 TensorFlow
+- 📊 scikit-learn
+
+### Tools & More
+- 🔧 Git & GitHub
+- 💡 VS Code
+- 🚀 Next.js *(learning)*
+
+</td>
+</tr>
+</table>
 
 <br/>
 
----
-
-## Contact
-
-**Email** — akma0050@naver.com  
-**GitHub** — [github.com/hwan0050](https://github.com/hwan0050)
-
-<br/>
-
-<sub>Building with purpose · Learning with passion</sub>
+## 🎯 Current Focus
+```javascript
