@@ -1,162 +1,166 @@
+# 👋 안녕하세요, Hwan입니다!
+
 <div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver)
 
-# 👋 안녕하세요, Hwan입니다
+**기술과 비즈니스의 교차점에서 가치를 창출하는 개발자**  
+실용적인 솔루션으로 사용자 경험을 개선합니다
 
-**Full Stack Developer** · **AI Enthusiast**
-
-기술과 비즈니스의 교차점에서 가치를 창출하는 개발자  
-AI 기술을 활용한 실용적 솔루션 개발에 집중합니다
+[![GitHub followers](https://img.shields.io/github/followers/hwan0050?style=social)](https://github.com/hwan0050)
+[![Gmail](https://img.shields.io/badge/Email-akma0050@naver.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akma0050@naver.com)
 
 </div>
 
-<br/>
+---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-안녕하세요! 프론트엔드와 백엔드를 아우르는 풀스택 개발자 Hwan입니다.
+프론트엔드와 백엔드를 아우르는 풀스택 개발자입니다.  
+사용자 중심의 직관적인 인터페이스와 견고한 백엔드 시스템 구축에 집중합니다.
 
-- 🔭 **현재 작업 중**: AI 기반 주가 예측 웹 애플리케이션 개발
-- 🌱 **학습 중**: TypeScript, React, Next.js 생태계 탐험
-- 💼 **전문 분야**: Java 백엔드 개발, 프론트엔드 개발
-- 🎯 **관심사**: 머신러닝과 웹 기술의 융합, 사용자 중심 설계
-- 💡 **협업**: AI 기술을 활용한 실용적인 웹 서비스 개발에 관심 있어요!
+- 🔭 **현재**: AI 기반 웹 애플리케이션 개발 중
+- 🌱 **학습**: TypeScript, React 심화, 머신러닝 모델 통합
+- 💼 **전문**: Java/Spring Boot 백엔드, React 프론트엔드
+- 🎯 **관심**: 웹 기술과 AI의 융합, 데이터 시각화
+- 💡 **목표**: 기술로 실질적인 문제를 해결하는 서비스 개발
+- 📫 **연락**: akma0050@naver.com
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 📈 Stock Prediction Platform
-> 실시간 주가 분석과 AI 기반 가격 예측을 제공하는 풀스택 웹 애플리케이션
+<div align="center">
 
-**주요 기능**
-- 📊 실시간 주가 데이터 조회 및 분석
-- 🤖 머신러닝 모델 기반 가격 예측
-- 📈 인터랙티브 차트 시각화
-- 🔔 가격 알림 시스템
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-**Tech Stack**  
-`React` `Spring Boot` `Python` `TensorFlow` `PostgreSQL` `Chart.js`
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**[→ 프로젝트 보러가기](https://github.com/hwan0050/stock-predictor)**
+### Data & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<br/>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📚 Training Repository
-> Git 워크플로우, 개발 방법론, 코딩 실습을 위한 학습 저장소
+### Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**포함 내용**
-- Git 브랜치 전략 및 커밋 컨벤션 문서
-- 프로젝트 구조 설계 연습
-- 코드 리뷰 및 협업 프로세스 학습
+</div>
 
-**[→ 저장소 보러가기](https://github.com/hwan0050/training)**
+---
 
-<br/>
+## 📁 Projects
 
-## 💻 Tech Stack
+### 🎯 [주가 예측 웹 애플리케이션](https://github.com/hwan0050/stock-predictor)
+실시간 주가 분석과 AI 기반 예측을 제공하는 풀스택 웹 애플리케이션
+
+**Tech**: React · Spring Boot · Python · Chart.js · PostgreSQL  
+**Status**: 🚧 진행 중 (50%)
+
+---
+
+### 📚 [개발 학습 저장소](https://github.com/hwan0050/dev-practice)
+Git 워크플로우, 코딩 실습, 개발 방법론을 학습하는 공간
+
+**Focus**: Git 전략 · 협업 프로세스 · Best Practices  
+**Status**: ✅ 활발히 업데이트 중
+
+---
+
+## 💭 Development Philosophy
+
+```typescript
+const myApproach = {
+  code: "가독성과 유지보수성 우선",
+  design: "사용자 관점의 인터페이스",
+  learning: "지속적인 학습과 실전 적용",
+  collaboration: "명확한 소통과 문서화",
+  problem: "논리적 사고와 데이터 기반 의사결정"
+};
+```
+
+---
+
+## 🎯 Current Focus
+
+- ⚛️ **React**: Hooks, 상태 관리, 성능 최적화
+- 🚀 **Spring Boot**: RESTful API 설계 및 최적화
+- 🤖 **Machine Learning**: 딥러닝 모델의 실제 서비스 통합
+- 📝 **Clean Code**: 읽기 좋은 코드와 효과적인 Git 워크플로우
+- 🌐 **Full Stack**: 프론트엔드-백엔드 통합 및 배포 자동화
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwan0050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan0050&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea)
+
+</div>
+
+---
+
+## 🌱 Learning Journey
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-### 🔹 Backend
-- **Java** - Spring Boot를 활용한 RESTful API 개발
-- **Node.js** - Express 기반 서버 구축 경험
-- **Database** - PostgreSQL, MySQL
-
-### 🔹 Frontend  
-- **JavaScript** - ES6+ 문법 활용
-- **HTML/CSS** - 반응형 웹 디자인
-- **React** *(학습 중)* - 컴포넌트 기반 개발
-- **TypeScript** *(학습 중)* - 타입 안정성 확보
+### 2024 - Present
+- ✅ Spring Boot RESTful API 설계
+- ✅ React 컴포넌트 아키텍처
+- ✅ 데이터 시각화 (Chart.js)
+- 🚧 TypeScript 통합 학습 중
+- 🚧 LSTM 딥러닝 모델 학습 중
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-### 🔹 AI & Data
-- **Python** - 데이터 분석 및 ML 모델 개발
-- **TensorFlow** - 딥러닝 모델 구현
-- **scikit-learn** - 머신러닝 알고리즘 활용
-- **pandas** - 데이터 전처리 및 분석
-
-### 🔹 Tools & DevOps
-- **Git/GitHub** - 버전 관리 및 협업
-- **VS Code** - 주력 IDE
-- **Next.js** *(학습 중)* - 서버사이드 렌더링
-- **Docker** *(예정)* - 컨테이너화
+### 2023
+- Java 객체지향 프로그래밍
+- Spring Boot 백엔드 개발
+- Python 데이터 분석
+- Git/GitHub 협업 프로세스
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 📊 Development Philosophy
-```javascript
-const developmentApproach = {
-  codeQuality: "가독성과 유지보수성을 최우선으로",
-  userExperience: "사용자 관점에서 생각하는 인터페이스 설계",
-  continuousLearning: "새로운 기술 습득과 실전 적용",
-  collaboration: "효과적인 커뮤니케이션과 문서화",
-  problemSolving: "데이터 기반 의사결정과 논리적 접근"
-};
-```
-
-<br/>
-
-## 🎯 Current Focus
-
-**지금 집중하고 있는 것들:**
-
-- 📈 주가 예측 플랫폼의 예측 정확도 개선
-- ⚛️ React와 TypeScript로 현대적인 프론트엔드 구축
-- 🚀 Next.js를 활용한 풀스택 애플리케이션 개발 학습
-- 🤖 머신러닝 모델의 실제 서비스 적용 방법 연구
-- 📝 Clean Code와 효과적인 Git 워크플로우 실천
-
-<br/>
-
-## 🌱 Learning Journey
-
-**2024 - Present**
-- TypeScript, React, Next.js 생태계 학습
-- 머신러닝 모델의 웹 서비스 통합
-- RESTful API 설계 및 최적화
-
-**2023**
-- Spring Boot 백엔드 개발
-- Python 데이터 분석 및 시각화
-- Git 협업 프로세스 학습
-
-<br/>
-
-## 📫 Contact & Links
+## 🤝 Connect With Me
 
 <div align="center">
 
-**이메일** akma0050@naver.com  
-**GitHub** [@hwan0050](https://github.com/hwan0050)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akma0050@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hwan0050)
 
-<br/>
-
-궁금하신 점이나 협업 제안은 언제든 환영합니다! 🤝
-
-<br/>
-
-[![Stock Prediction](https://img.shields.io/badge/📈_Stock_Prediction-View_Project-2ea44f?style=flat-square)](https://github.com/hwan0050/stock-prediction-app)
-[![Training](https://img.shields.io/badge/📚_Training-View_Repo-0969da?style=flat-square)](https://github.com/hwan0050/training)
-[![Email](https://img.shields.io/badge/Email-akma0050@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akma0050@naver.com)
+**협업이나 프로젝트 관련 문의는 언제든 환영합니다!** 🤝
 
 </div>
 
-<br/>
-
-<div align="center">
-
 ---
 
-*Building meaningful products with modern technology* 🚀
+<div align="center">
+  
+### 💡 "기술은 도구일 뿐, 중요한 것은 그것으로 무엇을 만드느냐"
 
-*"기술은 도구일 뿐, 중요한 것은 그것으로 무엇을 만드느냐"*
+**Building meaningful products with modern technology** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=hwan0050&color=667eea&style=flat-square)
 
 </div>
