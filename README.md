@@ -47,17 +47,20 @@ const developer = {
 
 ---
 
-### 🏭 [Git-Factory](https://github.com/hwan0050/git-factory)
-> 대규모 프로젝트를 위한 Git 워크플로우 및 협업 가이드
+### 🏭 [Git Factory](https://github.com/hwan0050/git-factory)
+> 체계적인 풀스택 개발 학습 저장소 - Git 워크플로우부터 MSA까지
 
-**📋 주요 내용**
-- Git Flow 브랜치 전략 | PR & 코드 리뷰 프로세스
-- 커밋 컨벤션 & 베스트 프랙티스 | CI/CD 파이프라인 가이드
-- 이슈 관리 & 트러블슈팅 | 실무 예제 & 템플릿
+**📚 학습 성과**
+- ✅ Phase 1: Git + TypeScript + React 마스터 (북마크 앱)
+- ✅ Phase 2-1: Next.js 14 App Router 완료 (~800줄)
+- 🔄 Phase 2-2: Spring Boot + JPA (진행 예정)
 
-**🎯 활용**: 팀 협업 표준화 | 코드 품질 관리 | 배포 자동화
+**🛠️ Tech Stack**  
+`React` `Next.js 14` `TypeScript` `Tailwind CSS` `Spring Boot` `Docker`
 
-[🔗 프로젝트 보기](https://github.com/hwan0050/git-factory)
+**🚀 Status**: ![Phase 2](https://img.shields.io/badge/Phase-2/4-blue?style=flat-square) ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
+[🔗 프로젝트 보기](https://github.com/hwan0050/git-factory) | [📖 학습 로드맵](https://github.com/hwan0050/git-factory/blob/main/docs/LEARNING_PATH.md)
 
 ---
 
